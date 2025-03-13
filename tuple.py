@@ -1,6 +1,5 @@
 from datetime import date
-employees = [
-    (101, "Asha", "HR"),
+employees = [(101, "Asha", "HR"),
     (102, "bhanu", "IT"),
     (103, "Chinnu", "Finance"),
     (104, "arvind", "Marketing"),
